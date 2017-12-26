@@ -1,0 +1,2 @@
+Image Name = 0000005.png
+Predicted Label = 69+110
