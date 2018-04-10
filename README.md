@@ -9,7 +9,7 @@ Required Software:
 
 3- all the libraries import in both accuracy.py and test.py code
 
-* latest version of the software required
+\\* latest version of the software required
 
 test.py :
 This file will ask to give input, i.e. the image name in integer e.g. 345 , and will save the predicted captcha in a folder name as Test_images in a text whose name is going to be same as the image name.
